@@ -1,0 +1,23 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "pkg": "npm install bcrypt ejs express mongoose nodemon validator",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "git": "^0.1.5",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.1",
+    "validator": "^13.12.0"
+  }
+}
