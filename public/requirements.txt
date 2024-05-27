@@ -1,0 +1,11 @@
+# //Required Modules//
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.0",
+    "validator": "^13.12.0"
+"scripts":{
+ "start": "nodemon src/index.js",
+ "pkg": "npm install bcrypt ejs express mongoose nodemon validator",
+}
