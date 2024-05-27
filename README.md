@@ -1,5 +1,3 @@
-# Login__Auth
-Login Authentication using MERN Stack.
 # Login Authentication Using MERN Stack
 
 ## Installation
