@@ -2,12 +2,12 @@
 
 ## Installation
 
-Use the package manager [npm](https://docs.npmjs.com/cli/v10/commands/npm-install) to install npm.
+Use the package manager [npm](https://docs.npmjs.com/cli/v10/commands/npm-install) to install the necessary dependencies.
 
 ```bash
 npm run pkg
 ```
-It, will install  all the necessary dependencies.
+It, will install  all the necessary packages which are required for this project.
 ## Usage
 
 ```python
