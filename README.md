@@ -16,7 +16,9 @@ npm start
 It, will start the server.
 
 ## Video Explanation
-https://drive.google.com/file/d/115-GShphXL6ho6iipifl19LqHgAXgbXV/view?usp=sharing
+<a href="https://drive.google.com/file/d/115-GShphXL6ho6iipifl19LqHgAXgbXV/view?usp=sharing">
+<img src="![LOGIN AUTH](https://github.com/aysh01/Login__Auth/assets/120012051/9b77d844-5b8f-48ee-a142-8e6a9f1c4332)">
+</a>
 
 ## Output
 ![login](https://github.com/aysh01/Login__Auth/assets/120012051/1e332163-a3fd-41a4-a0b7-fe29d63bdf4e)
