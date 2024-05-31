@@ -17,7 +17,7 @@ It, will start the server.
 
 ## Video Explanation
 <a href="https://drive.google.com/file/d/115-GShphXL6ho6iipifl19LqHgAXgbXV/view?usp=sharing">
-<img src="![LOGIN AUTH](https://github.com/aysh01/Login__Auth/assets/120012051/9b77d844-5b8f-48ee-a142-8e6a9f1c4332)">
+<img src="![LOGIN AUTH](https://github.com/aysh01/Login__Auth/assets/120012051/9b77d844-5b8f-48ee-a142-8e6a9f1c4332)" alt="Image">
 </a>
 
 ## Output
