@@ -1,4 +1,4 @@
-# Login Authentication Using MERN Stack
+# Online E-Commerce Website Using MERN Stack
 
 ## Installation
 
